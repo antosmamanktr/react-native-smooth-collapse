@@ -14,9 +14,17 @@
   },
   "keywords": [
     "react-native",
-    "collapsible",
     "accordion",
-    "reanimated"
+    "collapsible",
+    "reanimated",
+    "animation",
+    "ui",
+    "smooth",
+    "expand",
+    "collapse",
+    "react-native-collapsible",
+    "react-native-smooth-collapsible",
+    "react-native-accordion"
   ],
   "peerDependencies": {
     "react": "*",
