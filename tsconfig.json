@@ -1,11 +1,19 @@
 {
   "compilerOptions": {
-    "target": "ESNext",
-    "module": "ESNext",
-    "jsx": "react-jsx",
-    "strict": true,
-    "skipLibCheck": true,
+    "target": "esnext",
+    "module": "esnext",
+    "jsx": "react",
+    "declaration": true,
+    "emitDeclarationOnly": false,
+    "outDir": "dist",
     "moduleResolution": "node",
-    "esModuleInterop": true
-  }
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "strict": true
+  },
+  "include": [
+    "src",
+    "index.ts"
+  ]
 }
