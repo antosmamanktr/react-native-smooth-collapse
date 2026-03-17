@@ -1,0 +1,34 @@
+{
+  "name": "react-native-smooth-collapse",
+  "version": "0.0.1",
+  "description": "High performance collapsible & accordion for React Native using Reanimated",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "source": "src/index.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "keywords": [
+    "react-native",
+    "collapsible",
+    "accordion",
+    "reanimated"
+  ],
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*",
+    "react-native-gesture-handler": ">=2.0.0",
+    "react-native-reanimated": ">=2.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.14",
+    "@types/react-native": "^0.72.8",
+    "tsup": "^8.5.1",
+    "typescript": "^5.9.3"
+  },
+  "license": "MIT"
+}
