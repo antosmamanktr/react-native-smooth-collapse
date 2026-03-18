@@ -24,7 +24,7 @@
 ## ✨ Demo
 
 <p align="center">
-  <img src="./assets/demo.gif" alt="Accordion With animated arrow Demo" width="300" />
+  <img src="./src/assets/demo.gif" alt="Accordion With animated arrow Demo" width="300" />
 </p>
 
 ---

@@ -1,6 +1,6 @@
 {
   "name": "react-native-smooth-collapse",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "High performance collapsible & accordion for React Native using Reanimated",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -12,6 +12,11 @@
     "build": "tsc",
     "prepare": "npm run build"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/antosmamanktr/react-native-smooth-collapse.git"
+  },
+  "author": "Antos Maman",
   "keywords": [
     "react-native",
     "accordion",
